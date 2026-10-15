@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">KotlinMaps</string>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>
